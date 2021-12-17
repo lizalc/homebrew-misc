@@ -1,6 +1,5 @@
 cask "font-delugia-complete" do
-  version "2110.31.1"
-  sha256 "46aa03327d6591790f0e7081254edb8a81fd31ec7b0bee9a30ff44c34542aaf6"
+  version "2111.01"
 
   url "https://github.com/adam7/delugia-code/releases/download/v#{version}/delugia-complete.zip"
   name "Delugia Complete"
